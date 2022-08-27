@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "525f6445-b873-4620-a682-e614ea238840",
+		"name": "check2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "889219-525f6445-b873-4620-a682-e614ea238840"
+	},
+	"item": [
+		{
+			"name": "asd",
+			"id": "5f160df5-0663-4095-a9db-73bc252d5775",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
